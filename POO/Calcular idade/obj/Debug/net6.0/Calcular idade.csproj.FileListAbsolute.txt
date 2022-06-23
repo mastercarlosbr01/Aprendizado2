@@ -1,0 +1,15 @@
+E:\Desenvolvedor\POO\Calcular idade\bin\Debug\net6.0\Calcular idade.exe
+E:\Desenvolvedor\POO\Calcular idade\bin\Debug\net6.0\Calcular idade.deps.json
+E:\Desenvolvedor\POO\Calcular idade\bin\Debug\net6.0\Calcular idade.runtimeconfig.json
+E:\Desenvolvedor\POO\Calcular idade\bin\Debug\net6.0\Calcular idade.dll
+E:\Desenvolvedor\POO\Calcular idade\bin\Debug\net6.0\Calcular idade.pdb
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.csproj.AssemblyReference.cache
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.AssemblyInfoInputs.cache
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.AssemblyInfo.cs
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.dll
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\refint\Calcular idade.dll
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.pdb
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\Calcular idade.genruntimeconfig.cache
+E:\Desenvolvedor\POO\Calcular idade\obj\Debug\net6.0\ref\Calcular idade.dll

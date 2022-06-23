@@ -1,0 +1,14 @@
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.exe
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.deps.json
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.runtimeconfig.json
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.runtimeconfig.dev.json
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.dll
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\bin\Debug\netcoreapp3.1\Array_Collections.pdb
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.csproj.AssemblyReference.cache
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.AssemblyInfoInputs.cache
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.AssemblyInfo.cs
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.dll
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.pdb
+E:\Desenvolvedor\C#-Danilo\Array_Collections\Array_Collections\obj\Debug\netcoreapp3.1\Array_Collections.genruntimeconfig.cache

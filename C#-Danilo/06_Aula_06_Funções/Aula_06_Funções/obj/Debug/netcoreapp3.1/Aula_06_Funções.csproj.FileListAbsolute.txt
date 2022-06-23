@@ -1,0 +1,14 @@
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.exe
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.deps.json
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.runtimeconfig.json
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.runtimeconfig.dev.json
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.dll
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\bin\Debug\netcoreapp3.1\Aula_06_Funções.pdb
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.csproj.AssemblyReference.cache
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.AssemblyInfoInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.AssemblyInfo.cs
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.dll
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.pdb
+E:\Desenvolvedor\C#-Danilo\Aula_06_Funções\Aula_06_Funções\obj\Debug\netcoreapp3.1\Aula_06_Funções.genruntimeconfig.cache

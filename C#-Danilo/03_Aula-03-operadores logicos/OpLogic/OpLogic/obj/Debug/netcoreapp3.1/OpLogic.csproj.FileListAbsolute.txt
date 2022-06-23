@@ -1,0 +1,14 @@
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.exe
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.deps.json
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.runtimeconfig.json
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.runtimeconfig.dev.json
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.dll
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\bin\Debug\netcoreapp3.1\OpLogic.pdb
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.csproj.AssemblyReference.cache
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.AssemblyInfoInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.AssemblyInfo.cs
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.dll
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.pdb
+E:\Desenvolvedor\C#-Danilo\Aula-03-operadores logicos\OpLogic\OpLogic\obj\Debug\netcoreapp3.1\OpLogic.genruntimeconfig.cache

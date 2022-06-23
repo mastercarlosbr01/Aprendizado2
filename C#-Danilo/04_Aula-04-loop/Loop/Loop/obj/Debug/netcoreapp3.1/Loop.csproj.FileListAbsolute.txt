@@ -1,0 +1,14 @@
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.AssemblyReference.cache
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+E:\Desenvolvedor\C#-Danilo\Aula-04-loop\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache

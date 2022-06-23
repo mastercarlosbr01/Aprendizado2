@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3tM1Cay4RUOmT4bKBHNKlPKd+D2h0EMAiph8SvfYcPLJXaTOVBoI9Tw1YYhPNyNxTKVqjZlypOIl7VaUdUhmA==",
+  "success": true,
+  "projectFilePath": "E:\\Desenvolvedor\\Desenvolvedor.IO\\minhaAppVsCode\\minhaAppVsCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Henrique Bra\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Carlos Henrique Bra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

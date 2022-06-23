@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula_06_Funções/1.0.0": {
+        "runtime": {
+          "Aula_06_Funções.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_06_Funções/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
