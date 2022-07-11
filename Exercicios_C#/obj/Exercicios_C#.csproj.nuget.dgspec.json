@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desenvolvedor\\Exercicios_C#\\Exercicios_C#.csproj": {}
+    "E:\\Desenvolvedor\\Aprendizado2\\Exercicios_C#\\Exercicios_C#.csproj": {}
   },
   "projects": {
-    "E:\\Desenvolvedor\\Exercicios_C#\\Exercicios_C#.csproj": {
+    "E:\\Desenvolvedor\\Aprendizado2\\Exercicios_C#\\Exercicios_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desenvolvedor\\Exercicios_C#\\Exercicios_C#.csproj",
+        "projectUniqueName": "E:\\Desenvolvedor\\Aprendizado2\\Exercicios_C#\\Exercicios_C#.csproj",
         "projectName": "Exercicios_C#",
-        "projectPath": "E:\\Desenvolvedor\\Exercicios_C#\\Exercicios_C#.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "E:\\Desenvolvedor\\Exercicios_C#\\obj\\",
+        "projectPath": "E:\\Desenvolvedor\\Aprendizado2\\Exercicios_C#\\Exercicios_C#.csproj",
+        "packagesPath": "C:\\Users\\Carlos Henrique Bra\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvedor\\Aprendizado2\\Exercicios_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carlos Henrique Bra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

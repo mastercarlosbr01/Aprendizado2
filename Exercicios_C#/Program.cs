@@ -11,14 +11,6 @@ namespace Calculator
         {
             Clear();
             Menu();
-
-
-
-
-
-
-
-
         }
 
         public static void Menu()
@@ -34,6 +26,8 @@ namespace Calculator
             WriteLine("1 - Antecessor e Sucessor");
             WriteLine("2 - Dobro, Triplo e Raiz");
             WriteLine("3 - Tabuada");
+            WriteLine("4 - Comparador de String");
+
 
             WriteLine("0 - Sair");
 
@@ -45,6 +39,7 @@ namespace Calculator
                 case 1: Action.AnteSuce(); break;
                 case 2: Action.DobroTriRaiz(); break;
                 case 3: Action.Tabuada(); break;
+                case 4: Action.EqualsString(); break;
 
                 case 0: System.Environment.Exit(0); break; //Sair
                 default: Menu(); break;

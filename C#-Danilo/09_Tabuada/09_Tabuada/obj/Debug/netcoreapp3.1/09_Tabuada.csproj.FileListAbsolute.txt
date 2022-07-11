@@ -1,0 +1,14 @@
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.exe
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.deps.json
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.runtimeconfig.json
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.runtimeconfig.dev.json
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.dll
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\bin\Debug\netcoreapp3.1\09_Tabuada.pdb
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.csproj.AssemblyReference.cache
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.AssemblyInfoInputs.cache
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.AssemblyInfo.cs
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.dll
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.pdb
+E:\Desenvolvedor\Aprendizado2\C#-Danilo\09_Tabuada\09_Tabuada\obj\Debug\netcoreapp3.1\09_Tabuada.genruntimeconfig.cache

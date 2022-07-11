@@ -27,7 +27,7 @@ namespace _07_Funções_Recursivas
         {
             Clear();
 
-            LerArquivo(@"C:\Arquivos\arq1.txt");
+            LerArquivo(@"C:\Arquivos\arq.txt");
             ReadKey();
         }
 

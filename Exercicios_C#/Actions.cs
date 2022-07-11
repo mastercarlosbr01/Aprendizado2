@@ -37,8 +37,22 @@ namespace Calculator{
             ReadKey();
             Program.Menu();
         }
-        static void Sonho1(){
-            // quando lembrar irei fazer
+        public static void EqualsString(){
+            WriteLine("Comparador de String");
+            Write("Digite a primeira string:");
+            string? author1 = ReadLine(); 
+            Write("Digite a segunda string:");
+            string? author2 = ReadLine();
+            
+            // Compare strings using String.Equals  
+            if (String.Equals(author1, author2))  
+                Console.WriteLine($"{author1} e {author2} tem o mesmo valor");  
+            else  
+                Console.WriteLine($"{author1} e {author2} são diferentes");  
+            
+
+
         }
+        
     }
 }

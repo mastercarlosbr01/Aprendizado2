@@ -1,0 +1,14 @@
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.exe
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.deps.json
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.runtimeconfig.json
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.runtimeconfig.dev.json
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.dll
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\bin\Debug\netcoreapp3.1\Aula_08_Constante.pdb
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.csproj.AssemblyReference.cache
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.AssemblyInfoInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.AssemblyInfo.cs
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.csproj.CoreCompileInputs.cache
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.dll
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.pdb
+E:\Desenvolvedor\C#-Danilo\Aula_08_Constante\Aula_08_Constante\obj\Debug\netcoreapp3.1\Aula_08_Constante.genruntimeconfig.cache
