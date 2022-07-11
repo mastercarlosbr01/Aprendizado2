@@ -10,8 +10,6 @@ namespace Inicial
         {
             Clear();
             Menu.Menuzin();
-
-
         }
     }
 }
