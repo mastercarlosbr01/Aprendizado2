@@ -4,7 +4,7 @@ using System.Text;
 using static System.Console;
 using System.Threading;
 using Intro;
-
+using System.Configuration;
 
 namespace Operations
 {
@@ -77,7 +77,7 @@ namespace Operations
             Clear();
             WriteLine($"Olá novamente {nome}!!\n\nSeja bem vindo!!\n");
             Thread.Sleep(1000);
-            WriteLine("Digite a nota das suas matérias:\n");
+            WriteLine(ConfigurationManager.AppSettings["materias_escr"]+"\n");
             Write("Português: ");
             var port = int.Parse(ReadLine());
             Write("\nMatemática: ");

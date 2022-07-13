@@ -1,0 +1,3 @@
+nome;telefone;CPF
+Carlos;35988119443;AiNãoVale
+Henrique;3598811asdasd9443;AiNasdasdaãoVale
