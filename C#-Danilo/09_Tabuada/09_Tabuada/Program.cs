@@ -16,13 +16,20 @@ namespace Inicial
             var clientes =  Cliente.LerClientes(); //  Estático serve para todos 
 
             var cliente = new Cliente();
-            cliente.Nome = "Carlos";
-            cliente.Telefone = "35988119443";
-            cliente.CPF = "Ai é demaisopaaaaaaa";
+            cliente.Nome = "Geraldo";
+            cliente.Telefone = "asda3123sda";
+            cliente.CPF = "ATestetestado";
             cliente.Gravar();
 
+            //Cliente c1 = new Cliente("Carlão", "35994758698", "555555558886");
+            //c1.Gravar();
+            //Cliente c2 = new Cliente { CPF = "55555555555", Nome = "Carlãoc2", Telefone = "35698654588" };
+            //c2.Gravar();
 
-
+            foreach (Cliente c in clientes) {
+                Console.WriteLine(c.Nome);
+            }
+            ReadKey();
         }
     }
 }

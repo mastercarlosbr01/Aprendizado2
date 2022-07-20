@@ -1,3 +1,10 @@
-nome;telefone;CPF
-Carlos;35988119443;AiNãoVale
-Henrique;3598811asdasd9443;AiNasdasdaãoVale
+nome; telefone; CPF;
+Carlos;35988119443;AiNãoVale;
+Henrique;3598811asdasd9443;AiNasdasdaãoVale;
+Joice;35988445566;maisum;
+Carlos;35988119443;Ai é demaisopaaaaaaa;
+Carlos;35988119443;Ai é demaisopaaaaaaa;
+Carlos2;asdasda;Ai é demaisopaasdasdasdasdaaaaaa;
+Carlão;35994758698;555555558886;
+Carlãoc2;35698654588;55555555555;
+Geraldo;asda3123sda;ATestetestado;
